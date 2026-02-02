@@ -1,0 +1,2 @@
+Refactor by Dave
+Log: 0.5107388282193626
