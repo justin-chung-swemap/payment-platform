@@ -1,0 +1,2 @@
+Refactor by Frank
+Log: 0.9065158575282056
